@@ -1,0 +1,20 @@
+Package: dqr
+Type: Package
+Title: Data Quality for R
+Version: 0.1.0
+Authors@R: person("Mick", "Mioduszewski", email = "mick@mioduszewski.net",
+                  role = c("aut", "cre"))
+Description: Data quality checking and reporting.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    lubridate
+Suggests: 
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
+Author: Mick Mioduszewski [aut, cre]
+Maintainer: Mick Mioduszewski <mick@mioduszewski.net>
