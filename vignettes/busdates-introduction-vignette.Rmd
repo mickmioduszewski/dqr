@@ -20,5 +20,5 @@ library(dqr)
 
 ## Introduction to dqr
 
-Stub
+Stub for dqr
 
