@@ -1,7 +1,8 @@
 #' @details
 #' This package will 
 #' ease the pain of assessing and reporting data quality for a dataframe
-#' or a set of them
+#' or a set of them.
+#' ...
 #' @keywords internal
 "_PACKAGE"
 
