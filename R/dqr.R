@@ -19,5 +19,6 @@
 #' @export
 dq_rpt <- function(DF) {
   nrow(DF)
+  
 }
 
